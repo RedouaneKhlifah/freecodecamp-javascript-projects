@@ -1,0 +1,34 @@
+body {
+  background-color: red;
+}
+
+.click {
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  background-color: transparent;
+  border: 2px solid white;
+  padding: 15px;
+  cursor: pointer;
+  position: absolute;
+  right: 700px;
+  top: 300px;
+}
+div {
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  background-color: transparent;
+  border: 2px solid white;
+  padding: 5px;
+  position: absolute;
+  right: 200px;
+  top: 300px;
+}
+div .change {
+  padding: 15px;
+  margin-right: 20px;
+}
+div input {
+  padding: 15px;
+}
